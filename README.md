@@ -1,6 +1,6 @@
 Hi there 👋
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently looking for a job
 - 💬 Ask me about anything you want
 - 📫 How to reach me: +380635777602 WA / pavlovovzhynskyy@gmail.com 
 - 😄 Pronouns: Pasha
