@@ -1,7 +1,6 @@
 Hi there 👋
 
 - 🌱 I’m currently looking for a job
-- 💬 Ask me about anything you want
+- 👨🏽‍💻 Full Stack MERN Developer
 - 📫 How to reach me: +380635777602 WA / pavlovovzhynskyy@gmail.com 
-- 😄 Pronouns: Pasha
-- ⚡ Fun fact: my name is Pavlo but you can call me Pasha 
+- 🙌🏽 Currently working on Encrypted Social Network : https://github.com/Lluitiy/encrypted-chat
